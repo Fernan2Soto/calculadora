@@ -1,0 +1,8 @@
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\bin\Debug\tareaDeCalculadora.exe.config
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\bin\Debug\tareaDeCalculadora.exe
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\bin\Debug\tareaDeCalculadora.pdb
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\obj\Debug\tareaDeCalculadora.csproj.AssemblyReference.cache
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\obj\Debug\tareaDeCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\obj\Debug\tareaDeCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\obj\Debug\tareaDeCalculadora.exe
+C:\Users\FERNANDO\source\repos\tareaDeCalculadora\obj\Debug\tareaDeCalculadora.pdb
